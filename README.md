@@ -1,7 +1,7 @@
 open-notice-consent-tracker
 ===========================
 
-Keep Track Of Your Consents 
+*Keep Track Of Your Consents* 
 
 ## Do you remember what you've agreed to online?
 
